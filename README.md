@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m SHERIF, a frontend software engineer
-- 👀 I build functional and human-centered solutions for the web
+- 👋 Hi, I’m SHERIF, a frontend software engineer.
+- 👀 I build functional and human-centered solutions for the web.
 - 👯 I’m looking to collaborate on Frontend Projects.
 - 📫 How to reach me:
   
